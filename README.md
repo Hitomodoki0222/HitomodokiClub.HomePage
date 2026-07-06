@@ -1,1 +1,1 @@
-# HitomodokiClub.HomePage
+# Hitomodoki.HomePage
